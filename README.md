@@ -1,6 +1,4 @@
 
-# cude-vue
-
 # zpcube_vue
 
 > '正品vue cube-ui 框架’
